@@ -1,7 +1,7 @@
 # java-gradle-fx
 
 Quick build repo for a project with the following versions:
-- java-16.0.2
+- java-17.0.2
 - gradle-7.3.1
 - javafx-17.0.1
 - junit-jupiter
