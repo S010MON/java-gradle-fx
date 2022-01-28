@@ -11,7 +11,7 @@ on:
   
 jobs:
   gradle:
-    runs-on: windows-latest
+    runs-on: Windows-2019
     permissions:
       contents: read
       packages: write
