@@ -16,3 +16,4 @@ Additionally workflows for CI/CD on Linux, Windows, and MacOS are pre-configured
 [![windows-2019](https://github.com/S010MON/java-gradle-fx/actions/workflows/windows-2019.yml/badge.svg)](https://github.com/S010MON/java-gradle-fx/actions/workflows/windows-2019.yml)
 
 Branch protections are set to require all tests to pass and one review iot merge into master
+
