@@ -14,3 +14,4 @@ Additionally workflows for CI/CD on Linux, Windows, and MacOS are pre-configured
 [![macos-10.15](https://github.com/S010MON/java-gradle-fx/actions/workflows/macos-10.yml/badge.svg)](https://github.com/S010MON/java-gradle-fx/actions/workflows/macos-10.yml)
 [![windows-2022](https://github.com/S010MON/java-gradle-fx/actions/workflows/windows-2022.yml/badge.svg)](https://github.com/S010MON/java-gradle-fx/actions/workflows/windows-2022.yml)
 [![windows-2019](https://github.com/S010MON/java-gradle-fx/actions/workflows/windows-2019.yml/badge.svg)](https://github.com/S010MON/java-gradle-fx/actions/workflows/windows-2019.yml)
+
